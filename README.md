@@ -171,6 +171,7 @@ Ejercicios: Capitulo 9
 
 4. Video:
 
+https://youtu.be/CJO7RLJSP7o
 
 
 5. Conclusiones:
