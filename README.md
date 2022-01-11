@@ -14,7 +14,7 @@ NRC: 10133
 
 Docente: Ing. Darwin Alulema
 
-Tema: Cap 9 del libro Principios de circuitos electricos
+Tema: Analisis de ramas, lazos y nodos.
 
 1. Objetivos:
 
